@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Cafe24 Danjunghae';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Danjunghae/Cafe24Danjunghae.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Danjunghae/Cafe24Danjunghae.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Danjunghae/Cafe24Danjunghae.woff2') format('woff2');
+}
